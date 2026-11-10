@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Erni85
 - 👀 I’m interested in Cybersecurity and DevOps
 - 🌱 I’m currently working as a Computer Engineer
-- 💞️ I’m looking to collaborate on Cybersecurity topics
+- 💞️ I’m looking to collaborate on Cybersecurity and AI topics
 - 📫 How to reach me momohernest@outlook.com
 
 <!---
